@@ -15,3 +15,4 @@ NOTE: browser extensions are NOT officially supported.  Anything you do here is 
 ![Tandem Chrome Extension 002](./docs/Readme_img_002.png)
 ![Tandem Chrome Extension 003](./docs/Readme_img_003.png)
 ![Tandem Chrome Extension 004](./docs/Readme_img_004.png)
+![Tandem Chrome Extension 005](./docs/Readme_img_005.png)
